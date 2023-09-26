@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 📄 Know about my experiences [http://malikemiroglu.me/](http://malikemiroglu.me/)
+- 📫 How to reach me **malikemiroglu92@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malikemiroglu&show_icons=true&locale=en" alt="malikemiroglu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikemiroglu&" alt="malikemiroglu" /></p>
-
