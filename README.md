@@ -9,11 +9,14 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 📫 How to reach me **malikemiroglu92@gmail.com**
+- 🧾You can find all my projects here <a href="https://malikemiroglu.me/">**malikemiroglu.me**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/malikemiroglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malikemiroglu" height="30" width="40" /></a>
+  <a href="mailto:malikemiroglu92@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
