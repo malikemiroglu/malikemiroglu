@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 🧾You can find all my projects here <a href="https://malikemiroglu.me/">**malikemiroglu.me**</a>
+- 🧾You can find all my projects here <a href="https://malikemiroglu.netlify.app/">**malikemiroglu.netlify.app**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
