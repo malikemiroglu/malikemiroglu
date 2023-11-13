@@ -5,7 +5,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-- 🔭 I’m currently working on **React Native**
+- 🔭 I’m currently working on **TypeScript**
 
 - 🌱 I’m currently learning **React Native**
 
