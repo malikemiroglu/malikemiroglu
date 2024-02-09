@@ -5,9 +5,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-- 🔭 I’m currently working on **TypeScript**
-
-- 🌱 I’m currently learning **React Native**
+- 🔭 I’m currently working on **Node.js**
 
 - 🧾You can find all my projects here <a href="https://malikemiroglu.netlify.app/">**malikemiroglu.netlify.app**</a>
 
